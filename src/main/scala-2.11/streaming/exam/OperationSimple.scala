@@ -36,7 +36,6 @@ object OperationSimple {
     val w2 = ds2.window(Seconds(5))
     val windowUnion = w1.union(w2)
 
-
     // 연산
     ds1.print
     ds1.map((_, 1)).print
