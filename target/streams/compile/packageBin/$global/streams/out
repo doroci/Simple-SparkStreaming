@@ -1,0 +1,9 @@
+[info] Packaging /Users/lee/IdeaProjects/spark-streaming-kafka/target/scala-2.11/spark-streaming-kafka_2.11-1.0.jar ...
+[debug] Input file mappings:
+[debug] 	streaming
+[debug] 	  /Users/lee/IdeaProjects/spark-streaming-kafka/target/scala-2.11/classes/streaming
+[debug] 	streaming/SimpleKafka$.class
+[debug] 	  /Users/lee/IdeaProjects/spark-streaming-kafka/target/scala-2.11/classes/streaming/SimpleKafka$.class
+[debug] 	streaming/SimpleKafka.class
+[debug] 	  /Users/lee/IdeaProjects/spark-streaming-kafka/target/scala-2.11/classes/streaming/SimpleKafka.class
+[info] Done packaging.
